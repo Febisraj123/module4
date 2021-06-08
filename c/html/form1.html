@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>form</title>
+        <link rel="stylesheet" href="form.css">
+    </head>
+    <body>
+        <h2>PHP Form Validation Example</h2>
+<p><span class="error">* required field</span></p>
+<form method="post" action="<form.php($_SERVER["PHP_SELF"]);?>">  
+    ID: <input type="number" name="ID">
+  <span class="error">* <?php echo $IDErr;?></span>
+  <br><br>
+  Name: <input type="text" name="name">
+  <span class="error">* <?php echo $nameErr;?></span>
+  <br><br>
+  Address: <textarea name="Address" rows="5" cols="40"></textarea>
+  <br><br>
+  Mobile Number: <input type="number" name="mob">
+  <span class="error">* <?php echo $mobErr;?></span>
+  <br><br>
+  E-mail: <input type="text" name="email">
+  <span class="error">* <?php echo $emailErr;?></span>
+  <br><br>
+  
+  
+  Gender:
+  <input type="radio" name="gender" value="female">Female
+  <input type="radio" name="gender" value="male">Male
+  <input type="radio" name="gender" value="other">Other
+  <span class="error">* <?php echo $genderErr;?></span>
+  <br><br>
+  <input type="submit" name="submit" value="Submit">  
+</form>
+    </body>
+</html>

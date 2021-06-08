@@ -1,0 +1,143 @@
+body
+{
+    border-style: groove;
+    border-radius: 50px;
+margin-left: 100px;
+margin-top: 20px;
+background-color: antiquewhite;
+    border-block-color: red;
+    
+    box-sizing: border-box;
+    width: 1150px;
+    bottom: 60px;
+    left: 100px;
+  border-left-color: red;
+  border-right-color: red;
+  padding: 40px;
+  border-top: 1px solid red;
+}
+
+
+.regi
+{
+    text-align: center;
+    color: navy;
+    font-size: 40px;
+}
+
+.id
+{
+    margin-left: 300px;
+    color: blue;
+    
+    font-size: 20px;
+}
+.id1
+{
+    margin-left: 500px;
+    border-color: rebeccapurple;
+    margin-top: -40px;
+}
+.name
+{
+    margin-left: 275px;
+    color: rebeccapurple;
+    font-size: 20px;
+    margin-top: 5px;
+    
+}
+.name1
+{
+    margin-left: 500px;
+    border-color: rebeccapurple;
+    margin-top: -60px;
+}
+.add
+{
+    margin-left: 260px;
+    color: blue;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.add1
+{
+    margin-left: 490px;
+    border-color: blue;
+    margin-top: -60px;
+}
+.mob
+{
+    margin-left: 210px;
+    color: blue;
+    font-size: 20px;
+}
+.mob1
+{
+    margin-left: 90px;
+    border-color: navy;
+    margin-left: 490px;
+    margin-top: -30px;
+}
+.email
+{
+    margin-left: 270px;
+    color: blue;
+    font-size: 20px;
+   
+}
+.email1
+{
+    margin-left: 490px;
+    border-color: blue;
+    margin-top: -40px;
+}
+
+.gen
+{
+    color: blue;
+    font-size: 30px;
+    margin-left: 230px;
+    margin-top: -30px;
+    
+}
+.fem
+{
+    margin-left: 500px;
+    margin-top: -50px;
+    font-size: 20px;
+}
+.fem1
+{
+margin-left: 480px;
+margin-top: -50px;
+}
+.male
+{
+    margin-left: 620px;
+    font-size: 20px;
+    margin-top: -80px;
+
+    
+}
+.male1
+{
+margin-left: 590px;
+margin-top: -75px;
+}
+
+.other
+{
+    margin-left: 720px;
+    font-size: 20px;
+    margin-top: -80px;
+}
+.other1
+{
+margin-left: 700px;
+margin-top: -75px;
+}
+.sub
+{
+    margin-left: 500px;
+    margin-top: -50px;
+}

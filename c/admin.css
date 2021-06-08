@@ -1,0 +1,106 @@
+.admin
+{
+    font-size: 30px;
+    color: navy;
+    text-align: center;
+
+}
+.nav
+{
+    color: red;
+
+    list-style-type: none;
+    margin: 10px;
+    padding: -20px;
+    background-color: brown;
+    height: 110px;
+}
+.id
+{
+  color: white;
+  margin-left: 100px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.name
+{
+  color: white;
+  margin-left: 250px;
+  font-size: 20px;
+}
+.no
+{
+  color: white;
+  margin-left: 400px;
+  font-size: 20px;
+}
+
+.add
+{
+    
+    
+    
+    background-color: navy;
+  color: white;
+  padding: 14px 20px;
+  
+  border: none;
+  cursor: pointer;
+  width: 3%;
+    margin-left: 600px;
+}
+.del
+{
+    
+    
+    margin-left: 700px;
+    background-color: navy;
+  color: white;
+  padding: 14px 20px;
+  
+  border: none;
+  cursor: pointer;
+  width: 5%;
+}
+.update
+{
+    
+    
+    margin-left: 500px;
+    text-align: center;
+    
+    margin-left: 200px;
+    background-color: navy;
+  color: white;
+  padding: 14px 20px;
+  
+  border: none;
+  cursor: pointer;
+  width: 5%;
+}
+.modi
+{
+    
+    margin-left: 700px;
+    background-color: navy;
+  color: white;
+  padding: 14px 20px;
+  
+  border: none;
+  cursor: pointer;
+  width: 5%;
+}
+.log
+{
+    margin-left: 100px;
+    text-align: center;
+    
+    margin-left: 200px;
+    background-color: navy;
+  color: white;
+  padding: 14px 20px;
+  
+  border: none;
+  cursor: pointer;
+  width: 5%;
+}

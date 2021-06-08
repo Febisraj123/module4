@@ -1,0 +1,110 @@
+body
+{
+    border-style: groove;
+    border-radius: 50px;
+margin-left: 100px;
+margin-top: 20px;
+background-color: antiquewhite;
+    border-block-color: blue;
+    
+    box-sizing: border-box;
+    width: 1150px;
+    bottom: 60px;
+    left: 100px;
+  border-left-color: blue;
+  border-right-color: blue;
+  padding: 40px;
+  border-top: 1px solid red;
+}
+.reg
+{
+    text-align: center;
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 38px; 
+    margin-top: -10px;
+}
+.win
+{
+    text-align: center;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 25px;
+
+}
+.wel
+{
+    text-align: center;
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 45px;
+}
+.vacc
+{
+    text-align: center;
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 25px;
+    
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+    color: black;
+    font-size: 25px;
+    
+    margin-top: 100px;
+    border-style: groove;
+    border-radius: 50px;
+margin-top: 20px;
+margin-left: 300px;
+    border-block-color: blue;
+    margin-top: 100px;
+    box-sizing: border-box;
+    width: 450px;
+  
+  
+    text-align: center;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+
+
+
+
+
+
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+}
+}
